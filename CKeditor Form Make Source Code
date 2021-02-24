@@ -1,0 +1,141 @@
+<form method="get" name="DSU Financial Aid">
+<h1><a href="https://imgbb.com/"><span style="color:#000000"><img alt="oie-6-Sv-Jj-Yo-C3-C4-Z" src="https://i.ibb.co/DMLK9zy/oie-6-Sv-Jj-Yo-C3-C4-Z.jpg" /></span></a><span style="color:#000000">&nbsp;</span></h1>
+
+<p style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:18px"><strong>Office of Financial Aid </strong></span></span></span></p>
+
+<p style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:18px">Independent Verification Worksheet 2019-2020</span> </strong></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">Your 2019&ndash;2020 Free Application for Federal Student Aid (FAFSA) was selected for review in a process called verification. The law says that before awarding Federal Student Aid, we may ask you to confirm the information you reported on your FAFSA. To verify that you provided correct information, we will compare your FAFSA with the information on this institutional verification document and with any other required documents. If there are differences, your FAFSA information may need to be corrected. You and a parent whose information was reported on the FAFSA must complete and sign this institutional verification document, attach any required documents, and submit the form and other required documents to us. We may ask for additional information. If you have questions about verification, contact us as soon as possible so that your financial aid award will not be delayed.&nbsp;</span></span></span></p>
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:700px">
+	<tbody>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><input required="required" type="text" /></span></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><input name="Student First Name" required="required" type="text" /></span></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><input maxlength="1" name="Middle Initial" required="required" type="text" /></span></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><input name="DSU D100#" required="required" type="text" /></span></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Student Last Name&nbsp;</span></em></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Student First Name&nbsp;</span></em></span></span></td>
+			<td style="width:50px"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">MI</span></em></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">DSU D100#</span></em></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="DSU Email Address" required="required" type="text" /></span></span></td>
+			<td>&nbsp;</td>
+			<td style="width:50px">&nbsp;</td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="Date of Birth" required="required" type="text" /></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">DSU Email Address</span></em></span></span></td>
+			<td style="width:110px">&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Date of Birth</span></em></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="Permanent Address" required="required" type="text" /></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="City" required="required" type="text" /></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="State" required="required" type="text" /></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="Zip Code" required="required" type="text" /></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Permanent Address (include apt.no.)</span></em></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">City</span></em></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">State</span></em></span></span></td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Zip Code</span></em></span></span></td>
+		</tr>
+		<tr>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="Home Phone Number" required="required" type="text" /></span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><input name="Alternate Phone Number" required="required" type="text" /></span></span></td>
+		</tr>
+		<tr>
+			<td style="width:110px"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Home Phone Number (including area code)</span></em></span></span></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="width:100px"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><em><span style="font-size:14px">Alternate Cell Phone Number&nbsp;(including area code)</span></em></span></span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><u><strong><span style="font-size:14px">Independent Student Family Information </span></strong></u></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><strong>Independent Students</strong> <strong>(List yourself first.)</strong> Include yourself, your spouse (if married), and any other individuals that you will provide more than half of their support from July 1, 2019 through June 30, 2020. Write in the name of the college for any family member who will be attending college in a degree program least half-time between July 1, 2019 and June 30, 2020. </span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">Please provide the number of members in your household.</span></span></span></p>
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:700px">
+	<tbody>
+		<tr>
+			<td style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:14px">Full Name</span></strong></span></span></td>
+			<td style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:14px">Age</span></strong></span></span></td>
+			<td style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:14px">Relationship</span></strong></span></span></td>
+			<td style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><strong><span style="font-size:14px">College Attending</span></strong></span></span></td>
+			<td style="text-align:center"><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><strong>Date of Birth</strong></span></span></span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="border-color:#000000">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td style="border-color:#000000">&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><u><strong>Income Information to Be Verified</strong></u></span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><strong>1. Student - check Box a or b:&nbsp;</strong></span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><strong><input name="Checkbox A" type="checkbox" /></strong>a. I,&nbsp; the student, <strong>have filed or will file&nbsp;</strong>a tax return for 2017. Check Box&nbsp;i, or ii. </span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input name="Checkbox i" type="checkbox" />i. I have used the IRS Data Retrieval Tool to transfer my 2017 tax information onto the FAFSA.&nbsp;</span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input name="Checkbox ii" type="checkbox" />ii. I have attached a copy of my 2017 IRS Tax Return Transcript to this Worksheet.&nbsp;<strong><em>Do not submit a copy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of your Federal Tax Return&nbsp;&nbsp;</em></strong></span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><input name="Checkbox b" type="checkbox" />b. I did not, will not, and am not required to file a 2017 IRS Tax Return. Submit a 2017 Verification of Non-Filing Letter from the IRS AND check either Box i or ii.&nbsp;</span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input name="Checkbox i2" type="checkbox" />i. I was not employed and did not earn income from work in 2017.&nbsp;</span></span></span></p>
+
+<p><span style="color:#000000"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<input name="Checkbox ii2" type="checkbox" />ii. I was employed in 2017. I have listed below my employer(s) and gross amount(s) earned. I have&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;attached a&nbsp;copy(ies) of my 2017 Wage and Tax Statement(s) (Form W-2) or have submitted (or will&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;submit) a copy separately.&nbsp;</span></span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="font-size:14px"><span style="color:#000000">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style="color:#e74c3c">1200 NORTH DUPONT&nbsp;HIGHWAY &bull; DOVER, DELAWARE 19901-2277&nbsp;&bull; (302) 857-6250&nbsp;&bull; FAX (302) 857-6251&nbsp;</span></span></span></p>
+
+<p><span style="font-family:Times New Roman,Times,serif"><span style="color:#e74c3c"><span style="font-size:12px">&nbsp; &nbsp; &nbsp;Delaware State University is an equal opportunity employer and does not discriminate becuase of race, creed, national ethnic&nbsp;origin, sex or disability.</span></span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</form>
+
+<p>&nbsp;</p>
